@@ -11,7 +11,7 @@
 {"id":"Quimica", "group":3},
 {"id":"Historia", "group":5},
 {"id":"CienciasSociales", "group":5},
-{"id":"Artes", "group":6},
+{"id":"Artes", "group":6}
 ],
 "links":[
 {"source":"Martha","target":"Matematica","value":20},
