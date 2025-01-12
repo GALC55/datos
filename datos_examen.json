@@ -1,5 +1,5 @@
 {
-      nodes: [
+      "nodes": [
         { id: "Martha", group: 1 },
         { id: "Gustavo", group: 1 },
         { id: "Julio", group: 1 },
@@ -13,7 +13,7 @@
         { id: "CienciasSociales", group: 5 },
         { id: "Artes", group: 6 },
       ],
-      links: [
+      "links": [
         { source: "Martha", target: "Matematica", value: 20 },
         { source: "Martha", target: "Geometria", value: 20 },
         { source: "Gustavo", target: "Lenguaje", value: 20 },
